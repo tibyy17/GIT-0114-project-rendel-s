@@ -1,0 +1,13 @@
+body{
+
+    display: flex;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(112, 112, 200);
+}
+
+.class{
+
+    display: flex;
+    
+}
